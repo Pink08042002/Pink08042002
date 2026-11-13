@@ -1,6 +1,5 @@
+<img src="./banner.svg" alt="Technicienne valoriste du réemploi d'appareils informatiques" width="100%">
 ## Bonjour, je suis Nur Benakli
-
-### Technicienne valoriste du réemploi d'appareils informatiques
 
 ### 🔧 Compétences
 - Diagnostic de pannes matérielles et logicielles
